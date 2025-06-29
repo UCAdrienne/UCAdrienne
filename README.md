@@ -40,5 +40,6 @@ I am a learner of the **ALX Software Engineering** program and I want to revamp 
 🌍 LinkedIn: [your-linkedin](https://www.linkedin.com/in/chukwuneme-d-1991b62ba/)
 💌 Email: dbmbonu@gmail.com
 
-
-<p align="center"> 🛠️ "Learning in public" is how I grow — follow along and let's build together! </p> ```
+<p align="center">
+  🛠️ "Learning in public" is how I grow — follow along and let's build together!
+</p>
