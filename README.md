@@ -34,3 +34,8 @@ I am a learner of the **ALX Software Engineering** program and I want to revamp 
 
 ```html
 ⚡ Bash • Git & GitHub • Linux • Python (in progress) • VS Code • CLI
+
+
+📫 How to Reach Me
+🌍 LinkedIn: [your-linkedin](https://www.linkedin.com/in/chukwuneme-d-1991b62ba/)
+💌 Email: dbmbonu@gmail.com
